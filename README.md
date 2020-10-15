@@ -20,8 +20,8 @@ Please **DO NOT MODIFY** any other files.
 * To run the program interactively, start MARS: `java -jar MarsMYY505_4_5.jar`, and load the .asm file
 * To run the test using munit: <br/>
 ```
-    javac -cp munit.jar Lab02TestBsearch.java
-    java -jar munit.jar lab02.asm Lab02TestBsearch.class
+    javac -cp munit.jar Lab02TestBSearch.java
+    java -jar munit.jar lab02.asm Lab02TestBSearch.class
 ```
 
 ## Automatic testing 
